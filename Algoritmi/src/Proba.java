@@ -24,7 +24,7 @@ public class Proba {
 			System.out.println(parni[i]+ "   " +i);
 			}
 		
-		
+		//mala izmena za lab ikt
 		
 		
 		
